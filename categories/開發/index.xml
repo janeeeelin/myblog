@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>開發 on 我的 Hugo 部落格</title>
+    <link>https://janeeeelin.github.io/myblog/categories/%E9%96%8B%E7%99%BC/</link>
+    <description>Recent content in 開發 on 我的 Hugo 部落格</description>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://janeeeelin.github.io/myblog/categories/%E9%96%8B%E7%99%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>測試文章</title>
+      <link>https://janeeeelin.github.io/myblog/posts/hello-world/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://janeeeelin.github.io/myblog/posts/hello-world/</guid>
+      <description>這是一篇測試文章</description>
+    </item>
+  </channel>
+</rss>
